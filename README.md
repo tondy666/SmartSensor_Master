@@ -10,7 +10,7 @@
   A smart sensor may also include a number of other components besides the primary sensor.  These components can include transducers, amplifiers, excitation control, analog filters and compensation. A smart sensor also incorporates software-defined elements that provide functions such as data conversion, digital processing and communication to external devices.
   
 ```
-Source:https://internetofthingsagenda.techtarget.com/definition/smart-sensor
+Source: https://internetofthingsagenda.techtarget.com/definition/smart-sensor
 
 ```
 © Copyright Tondy_666
