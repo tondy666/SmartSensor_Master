@@ -8,6 +8,8 @@
   Smart sensors enable more accurate and automated collection of environmental data with less erroneous noise amongst the accurately recorded information. These devices are used for monitoring and control mechanisms in a wide variety of environments including smart grids, battlefield reconnaissance, exploration and a great number of science applications. 
  
   A smart sensor may also include a number of other components besides the primary sensor.  These components can include transducers, amplifiers, excitation control, analog filters and compensation. A smart sensor also incorporates software-defined elements that provide functions such as data conversion, digital processing and communication to external devices.
+  
+```
 Source:https://internetofthingsagenda.techtarget.com/definition/smart-sensor
 
 ```
