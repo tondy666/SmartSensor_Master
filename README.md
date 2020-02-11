@@ -1,6 +1,8 @@
 # SmartSensor_Master
 
 ## Smart Sensor (Master) Using Arduino Mega CH340 
+
+![Arduino Mega CH340](https://www.pngdownload.id/png-5opmev/)
   A smart sensor is a device that takes input from the physical environment and uses built-in compute resources to perform predefined functions upon detection of specific input and then process data before passing it on. 
   
   Smart sensors enable more accurate and automated collection of environmental data with less erroneous noise amongst the accurately recorded information. These devices are used for monitoring and control mechanisms in a wide variety of environments including smart grids, battlefield reconnaissance, exploration and a great number of science applications. 
